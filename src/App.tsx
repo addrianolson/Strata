@@ -107,7 +107,7 @@ function App() {
               </p>
 
               <p>
-                Through a proven system of structured training, precise nutrition, and relentless accountability,
+                Through a proven system of structured training, precise nutrition, and  accountability, tailored to ensure YOU stay consistent, in the most efficient way possible.
                 I help you build strength, lose fat, and develop the discipline that separates the good from the great.
               </p>
 
