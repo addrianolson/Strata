@@ -102,7 +102,7 @@ function App() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6 font-body text-lg leading-relaxed">
               <p>
-                I work with high performers who refuse to settle. Whether you're building a business,
+                For High Performers who refuse to settle. Whether you're building a business,
                 crushing it in your career, or competing at the highest level, your body is your foundation.
               </p>
 
