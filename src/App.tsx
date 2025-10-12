@@ -108,9 +108,8 @@ function App() {
 
               <p>
                 Through a proven system of structured training, precise nutrition, and  accountability, tailored to ensure YOU stay consistent, in the most efficient way possible.
-              <p> I help you build strength, lose fat, and develop the discipline that separates the good from the great.</p>
-               
-             
+                I help you build strength, lose fat, and develop the discipline that separates the good from the great.
+              </p>
 
               <p>
                 This isn't about quick fixes. It's about sustainable transformation that compounds over time.
